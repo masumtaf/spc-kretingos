@@ -160,7 +160,7 @@
 
         new google.maps.Marker({
             position: { lat: lat, lng: lng },
-            icon: "http://127.0.0.1:5500/assets/img/pin.png",
+            icon: "https://spc-kretingos.netlify.app/assets/img/pin.png",
             map: map,
             title: "Test",
         });
